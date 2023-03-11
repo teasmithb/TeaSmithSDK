@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "python-virtualenv": "^0.0.4"
+  }
+}
